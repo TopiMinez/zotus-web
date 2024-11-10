@@ -8,7 +8,7 @@ if (typeof gdjs.evtsExt__GamePushAds__Initialization !== "undefined") {
 gdjs.evtsExt__GamePushAds__Initialization = {};
 
 
-gdjs.evtsExt__GamePushAds__Initialization.userFunc0xc69d90 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__GamePushAds__Initialization.userFunc0xae2e78 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 const project_ID = eventsFunctionContext.getArgument('Project_ID');
 const token = eventsFunctionContext.getArgument('Public_Token');
@@ -36,7 +36,7 @@ gdjs.evtsExt__GamePushAds__Initialization.eventsList0 = function(runtimeScene, e
 {
 
 
-gdjs.evtsExt__GamePushAds__Initialization.userFunc0xc69d90(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__GamePushAds__Initialization.userFunc0xae2e78(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 

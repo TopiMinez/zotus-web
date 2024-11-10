@@ -8,7 +8,7 @@ if (typeof gdjs.evtsExt__GamePushAds__FullscreenIsAvilable !== "undefined") {
 gdjs.evtsExt__GamePushAds__FullscreenIsAvilable = {};
 
 
-gdjs.evtsExt__GamePushAds__FullscreenIsAvilable.userFunc0xc69d90 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__GamePushAds__FullscreenIsAvilable.userFunc0xae2e78 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 if (gdjs.__GP !== undefined) {
     let gp = gdjs.__GP;
@@ -24,7 +24,7 @@ gdjs.evtsExt__GamePushAds__FullscreenIsAvilable.eventsList0 = function(runtimeSc
 {
 
 
-gdjs.evtsExt__GamePushAds__FullscreenIsAvilable.userFunc0xc69d90(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__GamePushAds__FullscreenIsAvilable.userFunc0xae2e78(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
